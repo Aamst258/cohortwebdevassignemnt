@@ -1,4 +1,4 @@
-## Assignments 
+### Recording all assignment  of 100xdevcohort
 online class assignments for javascript and web development 
 ### week1 
 1) creating a clock in console 
